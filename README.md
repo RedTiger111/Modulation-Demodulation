@@ -1,4 +1,4 @@
-# Sobel Filter Implementation in Verilog
+# Modulation & Demodulation
 
 This project is Modulation & Demodulation in matlab.
 Input # of symbols per frame & Modulation order. it can support 4-QAM,16-QAM,64-QAM and 256-QAM. 
