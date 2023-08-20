@@ -20,10 +20,11 @@ Input # of symbols per frame & Modulation order. it can support 4-QAM,16-QAM,64-
 5. I_Q mapping.
 
 - Demodulation.m
+  
 1. Reconstruction normalization.
 2. Constellation approximation.
 3. Demodulation.
 4. Gray code to binary.
    
 - awgn_noise.m
-Adding AWGN noise channel
+   Adding AWGN noise channel
